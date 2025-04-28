@@ -1,0 +1,5 @@
+title: My awesome blog
+description: My writings and thoughts
+remote_theme: "jekyll/minima@v2.5.2" 
+
+markdown: kramdown
