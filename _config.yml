@@ -5,3 +5,4 @@ include:
   - assets/css/style.scss   
 
 markdown: kramdown
+baseurl: ""
